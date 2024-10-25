@@ -1,3 +1,3 @@
 ## Hi there 👋
  teste para aula github
- <img src="{https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png}" />
+ <img src="{https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white}" />
